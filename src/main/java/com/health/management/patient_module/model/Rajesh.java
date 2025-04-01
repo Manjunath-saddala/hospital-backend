@@ -1,8 +1,9 @@
 package com.health.management.patient_module.model;
 
-import jakarta.persistence.Entity;
 
-@Entity
+import lombok.Data;
+
+@Data
 public class Rajesh {
 
 }
